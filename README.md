@@ -19,28 +19,28 @@ The lecture takes place on Fridays. Question and practice sessions are on Monday
 
 The structure of the course can roughly be divided into four blocks. The first three will give an introduction to supervised, unsupervised and reinforcement learning. The ultimate block gives outlooks to prospects and shortcomings, with a focus on directions of interested to our own research. 
 
-* 16.04: First half - general introduction to machine learning and course utilities. Second half - classification with Naive Bayes. Practical assignments: (optional) python review notebook. Spam message identification 
+* 16.04 - week 1: First half - general introduction to machine learning and course utilities. Second half - classification with Naive Bayes. Practical assignments: (optional) python review notebook. Spam message identification 
 
-##### Supervised learning (weeks 2-7):
-* 23.04: Logistic regression and gradient descent: Practical assignment: gradient descent variants and Titanic survivor prediction
-* 30.04: Introduction to neural networks: multi-layer perceptron (MLP), convolutional neural network (CNN). Practical assignment: MLP classification of fashion images with pure Numpy.
-* 07.05: Random Forests. Practical assignment: Revisiting Titanic survivor prediction + an additional challenge (San Francisco Crime). 
-* 14.05: No lecture/assignment due to public holidays. 
-* 21.05: ML software frameworks. Practical assignment: Revisiting fashion image classification and reading traditional Japanese character PyTorch.
-* 28.05: Neural sequence models, recurrent neural networks. Practical assignment: Shakespeare poetry text generation. 
+##### Supervised learning (weeks 2-6):
+* 23.04 - week 2: Logistic regression and gradient descent: Practical assignment: gradient descent variants and Titanic survivor prediction
+* 30.04 - week 3: Introduction to neural networks: multi-layer perceptron (MLP), convolutional neural network (CNN). Practical assignment: MLP classification of fashion images with pure Numpy.
+* 07.05 - week 4: Random Forests. Practical assignment: Revisiting Titanic survivor prediction + an additional challenge (San Francisco Crime). 
+* (14.05: No lecture/assignment due to public holidays.) 
+* 21.05 - week 5: ML software frameworks. Practical assignment: Revisiting fashion image classification and reading traditional Japanese character PyTorch.
+* 28.05 - week 6: Neural sequence models, recurrent neural networks. Practical assignment: Shakespeare poetry text generation. 
 
-##### Unsupervised learning (weeks 8-10):
-* 04.06: Introduction to unsupervised learning. Clustering with k-means. Principal and idependent component analysis (PCA and ICA). Pratical assignment: Finding clusters in generated distributions and signal source separation.  
-* 11.06: Unsupervised neural networks: representation learning through auto-encoding (AE) and generative modelling through variational auto-encoding (VAE). Practical assignment: Revisiting fashion and Kuzushiji for unsupervise pre-training and image generation. 
-* 18.06: Generative adversarial networks (GAN) and variational generative adversarial hybrids (VAE-GAN). Practical assignment: face generation
+##### Unsupervised learning (weeks 7-9):
+* 04.06 - week 7: Introduction to unsupervised learning. Clustering with k-means. Principal and idependent component analysis (PCA and ICA). Pratical assignment: Finding clusters in generated distributions and signal source separation.  
+* 11.06 - week 8: Unsupervised neural networks: representation learning through auto-encoding (AE) and generative modelling through variational auto-encoding (VAE). Practical assignment: Revisiting fashion and Kuzushiji for unsupervise pre-training and image generation. 
+* 18.06 - week 9: Generative adversarial networks (GAN) and variational generative adversarial hybrids (VAE-GAN). Practical assignment: face generation
 
-##### Reinforcement learning (weeks 11-13): 
-* 25.06: Classic tabular q-learning. Practical assignment: Cart pole balancing
-* 02.07: Deep reinforcement learning, QNN. Practical assignment: Taxi driver
-* 09.07: Meta-learning. Practical assignment: neural architecture search using the reinforce algorithm. 
+##### Reinforcement learning (weeks 10-12): 
+* 25.06 - week 10: Classic tabular q-learning. Practical assignment: Cart pole balancing
+* 02.07 - week 11: Deep reinforcement learning, QNN. Practical assignment: Taxi driver
+* 09.07 - week 12: Meta-learning. Practical assignment: neural architecture search using the reinforce algorithm. 
 
-##### Projects (week 14 - semester end):
-* 16.07: Short presentation on limitations & prospects. Project proposals and discussions. 
+##### Projects (week 13 - semester end):
+* 16.07 - week 13: Short presentation on limitations & prospects. Project proposals and discussions. 
 
 ## Projects:
 
