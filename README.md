@@ -21,28 +21,26 @@ The structure of the course can roughly be divided into four blocks. The first t
 
 * 16.04: First half - general introduction to machine learning and course utilities. Second half - classification with Naive Bayes. Practical assignments: (optional) python review notebook. Spam message identification 
 
-##### Supervised learning (weeks 2-6):
+##### Supervised learning (weeks 2-7):
 * 23.04: Logistic regression and gradient descent: Practical assignment: gradient descent variants and Titanic survivor prediction
-* 30.04: Random Forests. Practical assignment: Revisiting Titanic survivor prediction + an additional challenge (tbd). 
-* 07.05: Introduction to neural networks: multi-layer perceptron. Practical assignment: Classification of fashion images with pure Numpy.
-* 14.05: Convolutional Neural Networks and introduction to PyTorch. Practical assignment: Revisiting fashion image classification and reading traditional Japanese characters
-* 21.05: Neural sequence models, recurrent neural networks. Practical assignment: Shakespeare poetry text generation. 
+* 30.04: Introduction to neural networks: multi-layer perceptron (MLP), convolutional neural network (CNN). Practical assignment: MLP classification of fashion images with pure Numpy.
+* 07.05: Random Forests. Practical assignment: Revisiting Titanic survivor prediction + an additional challenge (San Francisco Crime). 
+* 14.05: No lecture/assignment due to public holidays. 
+* 21.05: ML software frameworks. Practical assignment: Revisiting fashion image classification and reading traditional Japanese character PyTorch.
+* 28.05: Neural sequence models, recurrent neural networks. Practical assignment: Shakespeare poetry text generation. 
 
-##### Unsupervised learning (weeks 7-9):
-* 28.05: Introduction to unsupervised learning. Clustering with k-means. Principal and idependent component analysis (PCA and ICA). Pratical assignment: Finding clusters in generated distributions and signal source separation.  
-* 04.06: Unsupervised neural networks: representation learning through auto-encoding (AE) and generative modelling through variational auto-encoding (VAE). Practical assignment: Revisiting fashion and Kuzushiji for unsupervise pre-training and image generation. 
-* 11.06: Generative adversarial networks (GAN) and variational generative adversarial hybrids (VAE-GAN). Practical assignment: face generation
+##### Unsupervised learning (weeks 8-10):
+* 04.06: Introduction to unsupervised learning. Clustering with k-means. Principal and idependent component analysis (PCA and ICA). Pratical assignment: Finding clusters in generated distributions and signal source separation.  
+* 11.06: Unsupervised neural networks: representation learning through auto-encoding (AE) and generative modelling through variational auto-encoding (VAE). Practical assignment: Revisiting fashion and Kuzushiji for unsupervise pre-training and image generation. 
+* 18.06: Generative adversarial networks (GAN) and variational generative adversarial hybrids (VAE-GAN). Practical assignment: face generation
 
-##### Reinforcement learning (weeks 10-11): 
-* 18.06: Classic tabular q-learning. Practical assignment: Cart pole balancing
-* 25.06: Deep reinforcement learning, QNN. Practical assignment: Taxi driver
-
-##### Prospects & limitations (weeks 12-13):
-* 02.07: Meta-learning. Practical assignment: neural architecture search using the reinforce algorithm.  
-* 09.07: Robustness beyond benchmarks (encountering unknown data or attacks) and continual learning. Practical assignments: seeveral small examples to build intuition behind overconfident classifier predictions, log-likelihood overestimation in unsupervised learning and catastrophic forgetting when training continously.   
+##### Reinforcement learning (weeks 11-13): 
+* 25.06: Classic tabular q-learning. Practical assignment: Cart pole balancing
+* 02.07: Deep reinforcement learning, QNN. Practical assignment: Taxi driver
+* 09.07: Meta-learning. Practical assignment: neural architecture search using the reinforce algorithm. 
 
 ##### Projects (week 14 - semester end):
-* 16.07: Project proposals and discussions. 
+* 16.07: Short presentation on limitations & prospects. Project proposals and discussions. 
 
 ## Projects:
 
